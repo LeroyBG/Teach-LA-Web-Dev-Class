@@ -1,0 +1,1 @@
+- Once list of assignments is completed, revise class 1 slides to have full list of assignments
