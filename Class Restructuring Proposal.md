@@ -23,10 +23,11 @@ To address these concerns, this class restructuring would slow down the pace of 
 1. Hello world with `console.log()` and `window.alert()`
 2. Variable Assignment and Basic Data Types
 3. Basic Arithmetic with Different Data Types
-	1. `number`, `string`, `boolean`, integer division with `Math.floor()` 
+	1. `number` and `string`, integer division with `Math.floor()`
 4. Control Flow
-	1. Conditionals
-	2. Loops
+    1. Boolean values and logic operators
+	2. Conditionals
+	3. Loops
 5. Functions
 	1. Paramaters
 	2. Return values
