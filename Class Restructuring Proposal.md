@@ -62,6 +62,8 @@ To address these concerns, this class restructuring would slow down the pace of 
 	- Asynchronous execution
 6. Component state
 7. Executing code on component mount and unmount (`onMount`, `useEffect`)
-
+## Advanced Styling with CSS
+1. The CSS box model
+2. Flexbox
 ## Assignments + Projects
 [[Assignment 1]]
