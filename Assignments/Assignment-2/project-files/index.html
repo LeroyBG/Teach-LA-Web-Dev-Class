@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Assignment 2</title>
+    <script src="./index.js" defer></script>
+  </head>
+  <body>
+    <h3>
+      Looks like I forgot my password :( Guess I have to answer these security
+      questions instead
+    </h3>
+    <label
+      >what was the name of your first pet?
+      <input type="text" id="answer1-input" />
+    </label>
+    <br />
+    <label
+      >what was the name of the first street you lived on
+      <input type="text" id="answer2-input" />
+    </label>
+    <br />
+    <label
+      >how old were you when you learned to ride a bike?
+      <input type="number" id="answer3-input" />
+    </label>
+    <br />
+    <button onclick="assignmentMagic()">check</button>
+    <p id="status-msg-bar"></p>
+  </body>
+  <style>
+    body {
+      background-color: pink;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    h3 {
+      color: rgb(0, 97, 97);
+    }
+  </style>
+</html>
