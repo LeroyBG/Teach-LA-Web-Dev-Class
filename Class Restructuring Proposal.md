@@ -67,4 +67,8 @@ To address these concerns, this class restructuring would slow down the pace of 
 1. The CSS box model
 2. Flexbox
 ## Assignments + Projects
-[[Assignment 1]]
+1. Assignment 1: [[Assignments/Assignment-1/Instructions]]
+	- Variables - Declaration, assignment
+	- Integer arithmetic
+2. Assignment 2
+	- Conditionals
