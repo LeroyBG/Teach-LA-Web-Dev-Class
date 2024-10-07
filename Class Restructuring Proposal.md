@@ -72,3 +72,11 @@ To address these concerns, this class restructuring would slow down the pace of 
 	- Integer arithmetic
 2. Assignment 2
 	- Conditionals
+3. Assignment 3
+	- Loops
+3. Assignment 4
+   - Functions
+4. Assignment 5
+	- Arrays, Objects
+5. Assignment 6
+	- All vanilla JavaScript examples
